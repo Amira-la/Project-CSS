@@ -1,0 +1,116 @@
+body {
+    background: rgb(36, 0, 12);
+    background: linear-gradient(90deg, rgba(36, 0, 12, 1) 0%, rgba(52, 50, 168, 1) 19%, rgba(15, 203, 179, 1) 100%);
+    text-align: center;
+    color: white;
+    font-family: 'roboto';
+    margin: auto;
+}
+
+#portfolio {
+    background-image: url(https://besthqwallpapers.com/Uploads/29-1-2020/120140/thumb2-blue-abstract-background-blue-creative-background-neon-lines-background-neon-blue-light.jpg);
+    background-color: rgba(127, 255, 212, 0.404);
+}
+
+h1 {
+    background-color: rgba(73, 72, 72, 0.418);
+    padding: 15px;
+    border: 50px;
+    margin-block-start: -7px;
+    margin-block-end: -8px;
+}
+
+nav {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration-line: none;
+    margin-right: 30px;
+    display: inline;
+    font-size: large;
+}
+
+label {
+    margin: 70px;
+    ;
+    color: aliceblue;
+}
+
+textarea {
+    align-items: center;
+    display: block;
+    margin: auto;
+}
+
+input {
+    display: inline;
+    margin: auto;
+}
+
+
+.f-end {
+    text-align: center;
+    text-align: justify;
+    width: 350px;
+    padding: 30px;
+    display: inline-block;
+
+
+}
+
+.b-end {
+    text-align: center;
+    text-align: justify;
+    width: 350px;
+    padding: 30px;
+    display: inline-block;
+}
+
+.d-base {
+    text-align: center;
+    text-align: justify;
+    width: 350px;
+    padding: 30px;
+    display: inline-block;
+
+}
+
+.table,
+th,
+td {
+    border: 1px solid;
+    width: 80%;
+
+    border-collapse: collapse;
+
+}
+
+th {
+    height: 40px;
+    text-align: center;
+    background-color: rgb(7, 154, 165);
+}
+
+td {
+    padding: 9px;
+    text-align: left;
+}
+
+
+.ul {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+.img {
+
+    display: flex;
+    justify-items: baseline;
+    justify-content: center
+}
